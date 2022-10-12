@@ -19,7 +19,7 @@ const Header = () => {
         <span class="emoji pointer"></span>
         <span>
           <a
-            href="mailto:brittany.chiang@gmail.com"
+            href="mailto:aytconturk@gmail.com"
             target="_blank"
             class="highlight-link"
           >
